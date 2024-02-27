@@ -1,0 +1,7 @@
+#define BLYNK_TEMPLATE_ID           "TMPL2rm1y8y-C"
+#define BLYNK_TEMPLATE_NAME         "and"
+#define BLYNK_AUTH_TOKEN            "4D53tOZEShd8dD2qHES39xxkd7ZqNJhe"
+
+char auth[] = "4D53tOZEShd8dD2qHES39xxkd7ZqNJhe";
+char ssid[] = "ORA_2.4G";                 
+char pass[] = "86988134365";
