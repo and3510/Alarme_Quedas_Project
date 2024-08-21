@@ -1,7 +1,7 @@
-#define BLYNK_TEMPLATE_ID           "TMPL2rm1y8y-C"
-#define BLYNK_TEMPLATE_NAME         "and"
-#define BLYNK_AUTH_TOKEN            "4D53tOZEShd8dD2qHES39xxkd7ZqNJhe"
+#define BLYNK_TEMPLATE_ID           "BLYNK_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME         "BLYNK_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN            "BLYNK_AUTH_TOKEN"
 
-char auth[] = "4D53tOZEShd8dD2qHES39xxkd7ZqNJhe";
-char ssid[] = "ORA_2.4G";                 
-char pass[] = "86988134365";
+char auth[] = "auth";
+char ssid[] = "nome_do_wifi";                 
+char pass[] = "senha";
