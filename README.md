@@ -11,15 +11,14 @@
 </div>
 
 
-* [Introdução](#Introduçao)
+* [Introdução](#Introdução)
 * [Componentes usados no Prototipo](#Componentes-usados-no-Prototipo)
 * [Desenvolvimento do Programa](#Desenvolvimento-do-Programa)
 * [Resultados Obtidos](#Resultados-Obtidos)
 * [Conclusão](#conclusão)
 
 ## Introdução
-Para esse bimestre, nós tínhamos que trabalhar com hardware e software, enquanto simultaneamente continuamos nosso projeto voltado para idosos, então decidimos fazer um protótipo de   
-sensor de queda, a fim de aproveitar as funcionalidades do Arduino para beneficiar os idosos para terem melhor segurança e bem-estar. Apesar das dificuldades encontradas durante o desenvolvimento do protótipo, conseguimos um bom resultado, através de uma pesquisa extensiva, explorando documentos, artigos científicos e vídeos.
+Para esse bimestre, nós tínhamos que trabalhar com hardware e software, enquanto simultaneamente continuamos nosso projeto voltado para idosos, então decidimos fazer um protótipo de sensor de queda, a fim de aproveitar as funcionalidades do Arduino para beneficiar os idosos para terem melhor segurança e bem-estar. Apesar das dificuldades encontradas durante o desenvolvimento do protótipo, conseguimos um bom resultado, através de uma pesquisa extensiva, explorando documentos, artigos científicos e vídeos.
 
 <div>
 
@@ -69,3 +68,5 @@ sensor de queda, a fim de aproveitar as funcionalidades do Arduino para benefici
 </div>
 
 ## Conclusão
+
+O protótipo de sensor de queda para idosos uniu hardware e software, utilizando o Arduino Uno e o sensor MPU-6050 para detectar movimentos bruscos e quedas reais. Apesar dos desafios técnicos, o projeto alcançou bons resultados, mostrando potencial para melhorar a segurança e qualidade de vida dos idosos. As próximas etapas envolvem possíveis melhorias e refinamentos do dispositivo.
