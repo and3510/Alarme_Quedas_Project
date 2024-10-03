@@ -15,20 +15,14 @@
 * [Introdução](#Introdução)
 * [Componentes usados no Prototipo](#Componentes-usados-no-Prototipo)
 * [Desenvolvimento do Programa](#Desenvolvimento-do-Programa)
+* [Dificuldades](#Dificuldades)
 * [Resultados Obtidos](#Resultados-Obtidos)
+* [Como_Usar](#Como_Usar)
 * [Conclusão](#conclusão)
 
 ## Introdução
 Para esse bimestre, nós tínhamos que trabalhar com hardware e software, enquanto simultaneamente continuamos nosso projeto voltado para idosos, então decidimos fazer um protótipo de sensor de queda, a fim de aproveitar as funcionalidades do Arduino para beneficiar os idosos para terem melhor segurança e bem-estar. Apesar das dificuldades encontradas durante o desenvolvimento do protótipo, conseguimos um bom resultado, através de uma pesquisa extensiva, explorando documentos, artigos científicos e vídeos.
 
-<div>
-
-
-
-</div>
-
-
-<p>Diagrama do projeto</p>
 
 ## Componentes usados no Prototipo 
 
@@ -36,13 +30,17 @@ Para esse bimestre, nós tínhamos que trabalhar com hardware e software, enquan
 
 <img width="500px" src="./images/fake.png"  alt="GitHub Readme Stats" />
 
+<br>
+
+<img width="500px" src="/home/anderson/coders_folders/arduino/projects_arduinos/projeto_alarme_quedas/images/IMG_20240108_222757.jpg"  alt="GitHub Readme Stats" />
+
 </div>
 
-- ##### Buzzer 5v -> Para aviso sonoro.
-- ##### Protoboard de 300 pinos -> Usado para expandir as conecçoes entre os compoenentes e usar como base do prototipo.
-- ##### Arduino Uno -> Um Microcontrolador, onde armazena um nosso codigo e processa todas as tarefas.
-- ##### MPU-6050 -> É um acelerômetro e giroscópio capaz de medir a aceleração e rotação nos três eixos coordenados (x,y,z).
-- ##### Bateria 9v -> Fonte de energia do dispositivo.
+- Buzzer 5v -> Para aviso sonoro.
+- Protoboard de 300 pinos -> Usado para expandir as conecçoes entre os compoenentes e usar como base do prototipo.
+- Arduino Uno -> Um Microcontrolador, onde armazena um nosso codigo e processa todas as tarefas.
+- MPU-6050 -> É um acelerômetro e giroscópio capaz de medir a aceleração e rotação nos três eixos coordenados (x,y,z).
+- Bateria 9v -> Fonte de energia do dispositivo.
 
 ## Desenvolvimento do Programa
 
@@ -54,10 +52,10 @@ Para esse bimestre, nós tínhamos que trabalhar com hardware e software, enquan
 
 <p>Parte do codigo</p>
 
-- ##### O programa analisa os dados do mpu6050 e calcula atraves da aceleraçao o movimento brusco e o angulo do dispositivo.
-- ##### O codigo funciona com dois estagios para detecçao de queda.
-  - ###### 1ºestagio verifica a condiçao de movimento brusco.
-  - ###### 2ºestagio verifica a condiçao de uma real queda.
+- O programa analisa os dados do mpu6050 e calcula atraves da aceleraçao o movimento brusco e o angulo do dispositivo.
+- O codigo funciona com dois estagios para detecçao de queda.
+  - 1º Estagio verifica a condiçao de movimento brusco.
+  - 2º Estagio verifica a condiçao de uma real queda.
 
 
 ## Resultados Obtidos 
