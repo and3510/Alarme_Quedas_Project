@@ -80,7 +80,17 @@ Aqui está uma versão aprimorada da frase para o README, com uma linguagem mais
 
 ### 1. Instale o Arduino IDE
 
-Acesse o site oficial do [Arduino](https://www.arduino.cc/) e faça o download da IDE.
+- Acesse o site oficial do [Arduino](https://www.arduino.cc/) e faça o download da IDE.
+- Inicie o Programa
+
+<div align="center">
+
+<img width="600px" src="./images/image10.png" alt="GitHub Readme Stats" /> 
+
+</div>
+
+
+
 
 ### 2. Abra o Arquivo
 
@@ -96,9 +106,24 @@ Na plataforma Arduino IDE, abra o arquivo localizado na pasta correspondente ao 
 
 - Ao tentar rodar o script no Arduino UNO, caso a plataforma sugira configurações adicionais, aceite as recomendações fornecidas.
 
+- Selecione a placa conectada ao computador
+
+<div align="center">
+
+<img width="550px" src="./images/image12.png" alt="GitHub Readme Stats" /> 
+
+</div>
+
 ---
 
 
+### 4. Pronto! click em Upload para Placa
+
+<div align="center">
+
+<img width="550px" src="./images/image11.png" alt="GitHub Readme Stats" /> 
+
+</div>
 
 
 ## Conclusão
