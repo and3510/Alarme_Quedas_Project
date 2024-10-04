@@ -74,7 +74,7 @@ Aqui está uma versão aprimorada da frase para o README, com uma linguagem mais
 
 ---
 
-## Como Usar
+## Como_Usar
 
 > Além do hardware, é necessário o software para executar o programa no microcontrolador.
 
