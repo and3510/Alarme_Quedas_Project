@@ -15,7 +15,6 @@
 * [Introdução](#Introdução)
 * [Componentes usados no Prototipo](#Componentes-usados-no-Prototipo)
 * [Desenvolvimento do Programa](#Desenvolvimento-do-Programa)
-* [Dificuldades](#Dificuldades)
 * [Resultados Obtidos](#Resultados-Obtidos)
 * [Como_Usar](#Como_Usar)
 * [Conclusão](#conclusão)
@@ -23,6 +22,7 @@
 ## Introdução
 Para esse bimestre, nós tínhamos que trabalhar com hardware e software, enquanto simultaneamente continuamos nosso projeto voltado para idosos, então decidimos fazer um protótipo de sensor de queda, a fim de aproveitar as funcionalidades do Arduino para beneficiar os idosos para terem melhor segurança e bem-estar. Apesar das dificuldades encontradas durante o desenvolvimento do protótipo, conseguimos um bom resultado, através de uma pesquisa extensiva, explorando documentos, artigos científicos e vídeos.
 
+---
 
 ## Componentes usados no Prototipo 
 
@@ -42,6 +42,8 @@ Para esse bimestre, nós tínhamos que trabalhar com hardware e software, enquan
 - MPU-6050 -> É um acelerômetro e giroscópio capaz de medir a aceleração e rotação nos três eixos coordenados (x,y,z).
 - Bateria 9v -> Fonte de energia do dispositivo.
 
+---
+
 ## Desenvolvimento do Programa
 
 <div align="center" >
@@ -58,6 +60,8 @@ Para esse bimestre, nós tínhamos que trabalhar com hardware e software, enquan
   - 2º Estagio verifica a condiçao de uma real queda.
 
 
+---
+
 ## Resultados Obtidos 
 
 <div align="center" >
@@ -65,6 +69,37 @@ Para esse bimestre, nós tínhamos que trabalhar com hardware e software, enquan
 <img width= "450px" src="./images/real.png" alt="GitHub Readme Stats" /> 
 
 </div>
+
+Aqui está uma versão aprimorada da frase para o README, com uma linguagem mais formal e clara:
+
+---
+
+## Como Usar
+
+> Além do hardware, é necessário o software para executar o programa no microcontrolador.
+
+### 1. Instale o Arduino IDE
+
+Acesse o site oficial do [Arduino](https://www.arduino.cc/) e faça o download da IDE.
+
+### 2. Abra o Arquivo
+
+Na plataforma Arduino IDE, abra o arquivo localizado na pasta correspondente ao projeto.
+
+<div align="center">
+
+<img width="300px" src="./images/image.png" alt="GitHub Readme Stats" /> 
+
+</div>
+
+### 3. Configurações
+
+- Ao tentar rodar o script no Arduino UNO, caso a plataforma sugira configurações adicionais, aceite as recomendações fornecidas.
+
+---
+
+
+
 
 ## Conclusão
 
